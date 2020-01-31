@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shapeeshei.zhangruiqi.top/sitemap.xml
